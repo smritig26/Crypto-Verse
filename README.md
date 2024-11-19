@@ -1,2 +1,2 @@
 # Crypto-Verse
-deployed link - https://crypto-verse-ruddy.vercel.app/
+deployed link - https://crypto-nite-alpha.vercel.app/
