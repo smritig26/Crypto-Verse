@@ -1,2 +1,2 @@
 # Crypto-Verse
-deployed link - https://crypto-nite-alpha.vercel.app/
+deployed link - https://cryptoverse-nakul.netlify.app/
